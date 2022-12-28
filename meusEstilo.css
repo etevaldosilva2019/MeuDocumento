@@ -6,5 +6,11 @@ h1{
 }
 
 div{
-    width: 500%;
+    width: 800pt;
+    border: solid 1px red;
+}
+p{
+    text-indent: 20px;
+    margin-top: 13px;
+    color: blue;
 }
